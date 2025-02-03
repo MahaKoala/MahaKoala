@@ -1,4 +1,4 @@
-<h1>🚀 Currently working on American 🇺🇸 vs. Chinese 🇨🇳 LLM models and integrating human digital behaviors that support “capitalism” 💰 💡 Exploring micro-SaaS ideas to capitalize on new opportunities 🏗️ 🌴 Based in a tropical paradise ☀️🌊 but dreaming of a cooler remote work spot ❄️🏔️</h1>
+<h1>🚀 Currently working on American 🇺🇸 vs. Chinese 🇨🇳 LLM models and integrating human digital behaviors that support “capitalism” 💰<br/> 💡 Exploring micro-SaaS ideas to capitalize on new opportunities 🏗️ <br/>🌴 Based in a tropical paradise ☀️🌊 but dreaming of a cooler remote work spot ❄️🏔️</h1>
 <p>A passionate ML developer from the Americas</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
