@@ -60,7 +60,7 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-## 🏆 GitHub Trophies
+🏆 GitHub Trophies
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=MahaKoala&show_icons=true&locale=en" alt="MahaKoala" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MahaKoala&show_icons=true&locale=en&layout=compact" alt="MahaKoala" /></p>
