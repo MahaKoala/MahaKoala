@@ -1,266 +1,194 @@
-# Hi there, I'm MahaKoala! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+# Hi, I’m MahaKoala 🐨🚀
 
-> **🚀 Currently working on American 🇺🇸 vs. Chinese 🇨🇳 LLM models and integrating human digital behaviors that support “capitalism” 💰**  
-> **💡 Exploring micro-SaaS ideas to capitalize on new opportunities 🏗️**  
-> **🌴 Based in a tropical paradise ☀️🌊 but dreaming of a cooler remote work spot ❄️🏔️**  
+### AI Systems Consultant · Agentic Workflow Builder · Salesforce Architect · Product-minded Technologist
 
-## About Me
+I build and study the systems that turn **AI from a chat box into an operating layer**: agents, coding harnesses, local-first LLM workflows, RAG pipelines, automation tools, trading systems, Salesforce/Agentforce extensions, and startup-ready product infrastructure.
 
-A passionate Machine Learning developer from the Americas, with a keen interest in LLM (Large Language Model) research and micro-SaaS ventures. Always experimenting with new tools and frameworks to push boundaries, optimize workflows, and create world-class digital products.
+My public GitHub is intentionally a research map: forks, experiments, evaluations, and toolchains that show what I’m studying, testing, adapting, and turning into practical systems for real-world operators.
+
+> **The person you call when the AI demo needs to become a working product, a repeatable workflow, or a consultant-grade implementation plan.**
 
 ---
 
-## 🚀 Tech Stack
+## What I’m focused on
 
-Below is a categorized view of languages, frameworks, and tools I use or explore.
+### 🧠 AI, LLMs & Agentic Engineering
+I work deeply across the modern AI engineering stack: local models, hosted models, prompt systems, agent orchestration, coding assistants, RAG, memory, browser automation, MCP-style tool integrations, and human-in-the-loop workflows.
 
-### Programming Languages
+Current areas of interest:
+
+- Local-first AI workflows using open models, private infrastructure, and hybrid routing
+- Agentic coding systems for Claude Code, Codex, Cursor, OpenCode, and terminal-based development
+- Spec-driven development, context engineering, prompt management, and long-running coding agents
+- RAG, document intelligence, vectorless retrieval, memory plugins, and compression pipelines
+- Browser agents, self-healing automation, and AI-powered operational task execution
+- AI evaluation, cost control, token efficiency, and multi-model routing
+
+I’m especially interested in the gap between **AI capability** and **AI operations** — how to make agents reliable, observable, cost-aware, and useful inside actual business workflows.
+
+---
+
+## My public GitHub signal
+
+My repositories and stars show a strong pattern around:
+
+| Area | What I’m exploring |
+|---|---|
+| **Agentic Coding** | Claude Code, OpenCode, Codex workflows, task-master systems, agent skills, prompt specs, status lines, multi-agent review loops |
+| **Local & Hybrid LLMs** | Local-first proxies, model routing, memory systems, token-saving workflows, self-hosted AI infrastructure |
+| **RAG & Knowledge Systems** | Document indexing, vectorless RAG, context compression, browser harnesses, research assistants |
+| **Salesforce + Agentforce** | Salesforce skills, Apex/Flow/LWC/SOQL/Agentforce tooling, enterprise automation, CRM intelligence |
+| **Trading & Market Automation** | Crypto trading bots, TradingView MCP, prediction market analysis, backtesting, risk-managed automation |
+| **DevOps & Infrastructure** | VPS setup, SSH/SFTP terminals, cloud-init scripts, Docker/worktree workflows, self-hosted tools |
+| **Security & Observability** | Sandboxed execution, credential tooling, monitoring, defensive research, operational visibility |
+| **Founder Systems** | Micro-SaaS, founder playbooks, career automation, startup operating systems, consultant delivery kits |
+
+---
+
+## Consultant mindset
+
+I approach technology from three angles:
+
+1. **Architect** — design the system correctly, with integrations, permissions, data flows, observability, and scale in mind.  
+2. **Operator** — make it usable for real teams, not just impressive in a demo.  
+3. **Founder** — think in terms of leverage, automation, repeatability, monetization, and market timing.
+
+That combination is why I’m drawn to AI tools that can become actual operating systems for consultants, developers, executives, and lean startup teams.
+
+---
+
+## Enterprise experience
+
+Beyond public repositories, much of my real-world work sits in private enterprise environments.
+
+I work across:
+
+- Salesforce Service Cloud, Sales Cloud, Experience Cloud, Agentforce, Flow, Apex, LWC, SOQL
+- CX operations, contact center workflows, routing, case management, reporting, and automation
+- AI-assisted business transformation, process mapping, and executive-ready implementation planning
+- Cloud integrations, APIs, ETL patterns, data platforms, observability, and operational governance
+- Security-conscious implementation patterns where customer data, access, and auditability matter
+
+I enjoy translating messy business problems into clean architecture, clear delivery plans, and systems that teams can actually run.
+
+---
+
+## What I like building
+
+### 🤖 AI Agent Infrastructure
+Agent harnesses, prompt systems, skill libraries, local/remote model routing, coding workflows, MCP-style tools, and practical AI operating layers.
+
+### 📚 Knowledge & Research Systems
+RAG pipelines, document intelligence, browser automation, personal knowledge systems, AI research assistants, and structured retrieval workflows.
+
+### 🧩 Salesforce & Enterprise Automation
+Agentforce-aligned skills, CRM automation, service operations, CX tooling, integrations, reporting, and workflow modernization.
+
+### 📈 Trading & Decision Systems
+Backtesting tools, trading agents, market data workflows, risk-aware automation, prediction market analytics, and AI-assisted research.
+
+### 🛠️ Developer Productivity
+CLI tools, macOS utilities, VPS scripts, prompt managers, coding assistants, terminal workflows, and automation frameworks.
+
+### 🚀 Micro-SaaS & Founder Tools
+Fast-moving product ideas, startup operating systems, launch kits, internal tooling, and monetizable automation systems.
+
+---
+
+## Selected themes from my repos & research
+
+- **Spec-driven development** — making AI coding agents follow structured plans instead of vibes  
+- **Context engineering** — helping models keep the big picture without wasting tokens  
+- **Agent memory** — making AI workflows persistent, useful, and less repetitive  
+- **Local-first AI** — running capable systems on personal infrastructure where privacy and cost matter  
+- **AI observability** — understanding what agents did, why they did it, and what it cost  
+- **Salesforce + AI** — bringing enterprise CRM workflows into the agentic era  
+- **Automation as leverage** — using scripts, agents, APIs, and workflows to compress execution time  
+
+---
+
+## Tech I work with
+
+### Languages
+`Python` · `TypeScript` · `JavaScript` · `Go` · `Shell` · `Apex` · `Swift` · `C#` · `SQL`
+
+### AI / ML / Agentic Systems
+`LLMs` · `RAG` · `Prompt Engineering` · `Context Engineering` · `Claude Code` · `Codex` · `Cursor` · `OpenCode` · `MCP` · `Agent Skills` · `Browser Automation` · `Local Models`
+
+### Enterprise & Cloud
+`Salesforce` · `Agentforce` · `AWS` · `Docker` · `PostgreSQL` · `APIs` · `ETL` · `DevOps` · `Observability` · `Security`
+
+### Product & Frontend
+`React` · `Next.js` · `Tailwind` · `SwiftUI` · `Figma` · `Framer` · `Design Systems`
+
+### Automation & Data
+`n8n` · `Zapier` · `TradingView` · `Backtesting` · `Market Data` · `Web Scraping` · `CLI Tools`
+
+---
+
+## How I think about AI
+
+AI is not just about better models.
+
+It is about:
+
+- better workflows  
+- better context  
+- better tools  
+- better memory  
+- better routing  
+- better observability  
+- better business outcomes  
+
+The winning teams will not simply “use AI.” They will build repeatable operating systems around it.
+
+That is the space I’m building in.
+
+---
+
+## Public vs. private work
+
+A lot of client and enterprise implementation work is private by necessity.
+
+My public GitHub shows the direction of travel: what I’m evaluating, forking, testing, learning from, and combining into consultant-grade systems.
+
+Private work stays private. Public research becomes leverage.
+
+---
+
+## GitHub Stats
+
 <p>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="42" height="42">
-  </a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="42" height="42">
-  </a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="42" height="42">
-  </a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="42" height="42">
-  </a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42">
-  </a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="42" height="42">
-  </a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42">
-  </a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="42" height="42">
-  </a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="42" height="42">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=MahaKoala&show_icons=true&locale=en" alt="MahaKoala GitHub Stats" />
 </p>
 
-### Frontend Development
 <p>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="42" height="42">
-  </a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue" width="42" height="42">
-  </a>
-  <a href="https://angular.io/assets/images/logos/angular/angular.svg" target="_blank">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="42" height="42">
-  </a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="42" height="42">
-  </a>
-  <a href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="42" height="42">
-  </a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="42" height="42">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MahaKoala&show_icons=true&locale=en&layout=compact" alt="MahaKoala Top Languages" />
 </p>
 
-### Backend Development
-<p>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="42" height="42">
-  </a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="42" height="42">
-  </a>
-  <a href="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="42" height="42">
-  </a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="42" height="42">
-  </a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="Rails" width="42" height="42">
-  </a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="42" height="42">
-  </a>
-</p>
+---
 
-### Mobile Development
-<p>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="42" height="42">
-  </a>
-  <a href="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="42" height="42">
-  </a>
-  <a href="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="42" height="42">
-  </a>
-  <a href="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="Xamarin" width="42" height="42">
-  </a>
-</p>
+## GitHub Trophies
 
-### Machine Learning / AI
-<p>
-  <a href="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="42" height="42">
-  </a>
-  <a href="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="42" height="42">
-  </a>
-</p>
-
-### Databases
-<p>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="42" height="42">
-  </a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="42" height="42">
-  </a>
-  <a href="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="42" height="42">
-  </a>
-  <a href="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" target="_blank">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="42" height="42">
-  </a>
-  <a href="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="42" height="42">
-  </a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="42" height="42">
-  </a>
-</p>
-
-### DevOps & Cloud
-<p>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="42" height="42">
-  </a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="42" height="42">
-  </a>
-  <a href="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="42" height="42">
-  </a>
-  <a href="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="42" height="42">
-  </a>
-  <a href="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="42" height="42">
-  </a>
-  <a href="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="42" height="42">
-  </a>
-  <a href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="42" height="42">
-  </a>
-  <a href="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="42" height="42">
-  </a>
-</p>
-
-### Testing & Automation
-<p>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="42" height="42">
-  </a>
-  <a href="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="Karma" width="42" height="42">
-  </a>
-  <a href="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="Cypress" width="42" height="42">
-  </a>
-</p>
-
-### Design & Prototyping
-<p>
-  <a href="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="42" height="42">
-  </a>
-  <a href="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="InVision" width="42" height="42">
-  </a>
-  <a href="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="Framer" width="42" height="42">
-  </a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="42" height="42">
-  </a>
-  <a href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="42" height="42">
-  </a>
-  <a href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="42" height="42">
-  </a>
-  <a href="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="Sketch" width="42" height="42">
-  </a>
-  <a href="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="42" height="42">
-  </a>
-</p>
-
-### Automation & Integration
-<p>
-  <a href="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="Zapier" width="42" height="42">
-  </a>
-  <a href="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="IFTTT" width="42" height="42">
-  </a>
-</p>
-
-### Other Tools
-<p>
-  <a href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="42" height="42">
-  </a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron" width="42" height="42">
-  </a>
-  <a href="https://www.chartjs.org/media/logo-title.svg" target="_blank">
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="42" height="42">
-  </a>
-  <a href="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="42" height="42">
-  </a>
-</p>
-
---- Private stuff stays private per their SD Licenses
-
-## 📊 GitHub Stats (Public Repos)
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=MahaKoala&show_icons=true&locale=en" alt="MahaKoala" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MahaKoala&show_icons=true&locale=en&layout=compact" alt="MahaKoala" />
-</p>
-
-### 🏆 Random GitHub Trophies (Public Repos)
 <p>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=MahaKoala" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=MahaKoala&theme=onedark&row=1&column=6" alt="GitHub Trophies" />
   </a>
 </p>
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## Connect
 
-[![](https://visitcount.itsvg.in/api?id=mahakoala&icon=0&color=0)](https://visitcount.itsvg.in)
+- Website: [mahakoala.com](https://mahakoala.com)
+- GitHub: [github.com/MahaKoala](https://github.com/MahaKoala)
 
 ---
 
-## 🐍 Now Enjoy a Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+### Personal thesis
+
+> The next great consultant will not just recommend software.  
+> They will design the AI-assisted operating system that lets the business move faster, think clearer, and execute with less friction.
+
+That is what I’m building toward.
+
