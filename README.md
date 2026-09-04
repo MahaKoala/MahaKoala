@@ -8,7 +8,7 @@
   <a href="https://github.com/MahaKoala">
     <img src="https://img.shields.io/badge/GitHub-MahaKoala-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://mahakoala.com">
+  <a href="">
     <img src="https://img.shields.io/badge/Web-mahakoala.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
   <img src="https://img.shields.io/badge/Focus-Agentic%20AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="Agentic AI" />
